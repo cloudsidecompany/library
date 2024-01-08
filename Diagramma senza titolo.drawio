@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T07:52:04.462Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_PnA1PHsli3D3PenGP7R" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T08:29:02.323Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nIrTGB702cFrpJgg1853" version="22.1.17" type="github">
   <diagram name="Pagina-1" id="7dm0YfQZz6ZbKNyyDJCs">
     <mxGraphModel dx="1434" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -52,8 +52,8 @@
         <mxCell id="51_-xrpVwXzuzDcWzmta-19" value="ISTIO IG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="415.88" y="280" width="82.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="51_-xrpVwXzuzDcWzmta-20" value="Header Manipulation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="422.01" y="372" width="70" height="28" as="geometry" />
+        <mxCell id="51_-xrpVwXzuzDcWzmta-20" value="Header Manipulation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="420" y="380" width="70" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
